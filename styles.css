@@ -1,2 +1,18 @@
-
-/* Your CSS Code here. */
+table,th,td{
+	border:1px solid black;
+	text-align:center;
+}
+.it-1,.it-2,.it-3,.it-4{
+	width:100%;
+}
+.it-4 td{
+	color:white;
+	background-color:black;
+}
+.unit1{
+	padding:50px 0px;
+	width:50%
+}
+.unit2{
+	padding:20px 0px;
+}
